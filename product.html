@@ -227,6 +227,12 @@
 							Pharmaceuticals
 						</a>
 					</li>
+
+					<li class="p-b-9">
+						<a href="product.html?evaporators_products" class="s-text7">
+							Evaporator
+						</a>
+					</li>
 				</ul>
 			</div>
 
@@ -367,6 +373,15 @@
 			title.style.borderRadius = '15px';
 			title.innerText = 'Pharmaceutical Products Line';
 			prod_line = pharmaceuticals_products;
+			showProductLine(prod_line, value);
+			showAllProducts(prod_line, value);
+		break;
+
+		case 'evaporators_products':
+			banner.style.backgroundImage = 'url(images/eva_banner.jpg)';
+			title.style.color = 'white';
+			title.innerText = 'Evaporators Products Line';
+			prod_line = evaporator_products;
 			showProductLine(prod_line, value);
 			showAllProducts(prod_line, value);
 		break;

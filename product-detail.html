@@ -59,6 +59,9 @@
 							<li>
 								<a href="index.html">Home</a>
 							</li>
+							<li>
+								<a href="index.html#machinery">Products</a>
+							</li>
 
 							<li>
 								<a href="about.html">About</a>
@@ -121,6 +124,10 @@
 
 					<li class="item-menu-mobile">
 						<a href="index.html">Home</a>
+					</li>
+
+					<li class="item-menu-mobile">
+						<a href="index.html#machinery">Products</a>
 					</li>
 
 					<li class="item-menu-mobile">
@@ -242,6 +249,12 @@
 					<li class="p-b-9">
 						<a href="product.html?pharmaceuticals_products" class="s-text7">
 							Pharmaceuticals
+						</a>
+					</li>
+
+					<li class="p-b-9">
+						<a href="product.html?evaporators_products" class="s-text7">
+							Evaporator
 						</a>
 					</li>
 				</ul>
@@ -408,6 +421,18 @@
 			tag1.innerText = 'Pharmaceuticals Processing';
 			tag.href = "product.html?pharmaceuticals_products";
 			tag1.href = "product.html?pharmaceuticals_products";
+		break;
+		case 'evaporators_products':
+			product_data = evaporator_products;
+			crump.innerText = "  > >  " + product_data[product_key].name;
+			image.setAttribute('src', product_data[product_key].image);
+			title.innerText = product_data[product_key].description;
+			body.innerText = product_data[product_key].value;
+
+			tag.innerText = 'Evaporators';
+			tag1.innerText = 'Evaporators Processing';
+			tag.href = "product.html?evaporators_products";
+			tag1.href = "product.html?evaporators_products";
 		break;
 	}
 	showProductLine(product_data, product_line);
