@@ -146,13 +146,7 @@ pharmaceuticals_products = [
         "image":"images/pharmacy/Reflux.png",
         "description":"RH Dual Formula Hot Reflux Extraction Evaporator",
         "value":"Equipment descriptions\n\nThe unit is composed of extracting tank , evaporator , condenser , cooler , oil separator , heater and industrial control computer etc . After dipping and heating , the lixiviation liquid of traditional Chinese medicine will be pumped into the external heater for heating from the bottom of extracting tank.\n\nThe extra pump liquid will enter into the bottom of extracting tank to reflow and play its partial mixing effect . After the extracting liquid is heated by the heater , it will be evaporated instantly and separated by the separation concentrator . The twice steam will enter into the extracting tank , transmitting the heat to the solvent in the extracting tank , and also playing mixing effect . The residual air will enter into the condenser and become solvent , and after reflux it enter into the extracting tank . It will enter into the heater for condensed liquid to carry out heat extracting tank . It will enter into the heater for condensed liquid to carry out heat exchange and make the temperature of condensed liquid approximate to the boiling point of solution in the extracting tank . Then the residual air enter into condenser . As the solvent has large reflux quantity , the density of solute in the medicine and solvent keeps high gradient , and the solute will be rapidly dissolved .\n\nThe extraction and concentration are synchronous with continuous discharge of concentrated liquid , thus , the process is greatly reduced  and only requires 4-6 hours.\n\nAs the reflow temperature of condensed liquid is approximate to the boiling point of solution in extracting tank , the energy consumption is very low . The whole unit is operated under airproof equipment , so the solve has little consumption .\n\nThe whole unit is controlled by industrial control computer , through which , heating temperature , evaporation temperature , reflow temperature , ,system vacuum pressure , liquid and liquid level of evaporation concentrating tank can be set and controlled . Thus the technology process can be operated reliably , stably and safely .\n\nWith good technology performance , the ointment-collecting rate is enhanced . Water or alcohol solvent distillation in conditions of negative pressure  , normal pressure and positive pressure , especially low-temperature distillation of heat sensitive materials can be made . The process flow of the unit has reasonable and compact layout ,  beautiful appearance and low pollution , Which is in accordance with GMP requirements . The unit has many advantages such as high efficiency , energy saving , multi-function.\n\nAs to the comprehensive performance , it is at the leading position in domestic . It is modernized technology equipment keeping pace with international natural plant medicine . .Our company can also produce ordinary manual control unit or semi-automatic control unit to satisfy different  requirements of customers. \n\nThe unit not only has good functions for extraction and concentration of traditional Chinese medicine and Chinese herbal medicine (Dry product ), but also has powerful functions for extraction and concentration of fresh plant products at low temperature with fresh flavor preserved , such as the extraction and concentration of flower and asparagus etc fresh products . It has applied in traditional Chinese medicine factories and health product factories , which show its powerful function advantages. The equipment is also applicable to the extraction and condensation of natural condiments and food additives concerning animals and halobios ."
-    } , 
-    {
-        "name":"",
-        "image":"images/pharmacy/.jpg",
-        "description":"",
-        "value":"The equipment is suitable for percolation operation in traditional Chinese medicine,food,chemical industry and etc.\n\nThe equipment is composed of tank body,taper body,oval seal head (or flat cover),pneumatic residue discharging door ,pneumatic operation bench and etc.It has such characteristics as equal solvent distribution and convenient residue discharging etc.\nThe percolation method is to add continuously leaching solvent into the rough powder of medicine materials to make it filtrate the medicine powder,and then the leaching liquid will flow from the bottom outlet .During the percolation ,the layer percolation method of solvent”s filtering into the medicine material is to add continuously  leaching solvent  into the medicine material layer to make the solvent pass through the medicine material layer from top to bottom and dissolve large amount of soluble matters.After that,the concentration increases,and it will move downward after the density increases.The leaching solvent at the upper layer or the thin leaching liquid will exchange the position and produce good concentration difference to make the scattering carried out smoothly .Thus,the leaching effect is better than the dipping method,and the extraction will be comparatively complete."
-    } , 
+    },
     {
         "name":"Percolation tank",
         "image":"images/pharmacy/percolation.jpg",
@@ -214,33 +208,39 @@ pharmaceuticals_products = [
         "value":"Extraction LP mainly used for alcoholprecipitation in the industries such as Chinese herbs, oral liquid, food, health care products, chemicals and so on. Alcohol precipitation tank is specialized new developed equipment from the old process in the production of alcohol precipitation(also known as ethanol deposition)mainly used forconcentrated Batocera horsfeldi Hope freezing or normal temperature or alcoholprecipitation, or for the concentrated herbals alcohol extraction.\n\nWe are supplying with the normal side-discharged solution(JCS)type of deposit tank, and also with the floating ball top-discharged solution(JCF)device, which takes the floating ball floating on the clear solution and discharges the clear solution from top of the tank to keep convenient operation by compression air or vacuum, according to the requirements of clients."
     } , 
     {
-        "name":"",
-        "image":"images/pharmacy/.jpg",
-        "description":"",
-        "value":""
+        "name":"JH Alcohol Recovery Tower",
+        "image":"images/pharmacy/JH Alcohol.jpg",
+        "description":"JH Alcohol Recovery Tower Description",
+        "value":"Instruction:The equipment is applied for the alcohol recycling in the industries such aspharmacy, food, light industry, chemical and so on, for the purpose of reducingproduction costs and enhancing the economic benefit, The equipment is such agreat device for recycling alcohol to distill rarealcohol at  temperature of 30-50 degree up to 90℃-95℃, and because ofhigh alcohol degree requirement for the finished product,thecircumfluence rate may be enhanced but with result of decreased output ofrelative finished product, the mellow degree in the residue liquid ≤3 degrees.\n\nThis equipment adapt high efficiencystainless steel corrugatedpadding material, all surface that touch with alcoholsuch as tower body, condenser, pressure stabilizer tank, cooling coil pipe aremade of stainless steel, to ensure finished alcohol product not be polluted. Atthe same time, u shape tube so that the heating external wall and distillingchamber inside can be cleaned.There are two kinds of modes for the equipment toadopt. That is external heating JHW or inner heating JHN, of which the externalheating is mainly subject to JH500 structure or more with high speed ofevaporation and both alcohol recycling and condensing may be finished."
     } , 
     {
-        "name":"",
-        "image":"images/pharmacy/.jpg",
-        "description":"",
-        "value":""
+        "name":"Reactor",
+        "image":"images/pharmacy/Reactor.jpg",
+        "description":"Reactor Description",
+        "value":"·SS reactor tank is one of normal usereactor equipments in pharmaceutical and chemical fields, at certaintemperature and pressure, through agitator mixes two kinds of volumes certain(or many kinds of)liquids, solids of liquids, promotes its chemical reaction,usually with thermal heat effect, Inputs required heat energy by heat exchangingdevice or shifts forming heat energy.\n\n·Type of agitation more uses anchor orframe type which ensures equal and even mixture in short time.\n\n·Speed of agitation morematches frequency conversion with temperature of display and control"
     } , 
     {
-        "name":"",
-        "image":"images/pharmacy/.jpg",
-        "description":"",
-        "value":""
+        "name":"Crystallizer",
+        "image":"images/pharmacy/Crystallizer.jpg",
+        "description":"Crystallizer description",
+        "value":"·The crystallizer uses imported SUS304 orSUS316L  material for fabrication, withinner wall of mechanical polishing or electrolytes mirror polishing, outer wallof all welded structural insulation, outer surface of mirror or matt.\n\n·The respirator of 0.22um is installed onthe crystallizer.\n\n·The crystallizer can bear 121℃ high temperature sterilization and disinfection with sanitarypressure meter.\n\n·Outer connection of the crystallizeradopts sanitary quick connector.\n\n·The crystallizer has temperature monitordevice, two sight lights, cleaning ball and inlet of Ni, temperatureconnection, etc.\n\n·Seal of shaft adopts special sanitarymechanical seal design which insures they are not polluted.\n\n· The crystallize usesadjustment device of frequency conversion with big range adjustment of shaft speed."
     } , 
     {
-        "name":"",
-        "image":"images/pharmacy/.jpg",
-        "description":"",
-        "value":""
+        "name":"Special Maillard Reaction Type Reaction Kettle",
+        "image":"images/pharmacy/Special Maillard.jpg",
+        "description":"Special Maillard Reaction Type Reaction Kettle Description",
+        "value":"It is the reaction kettle for such substances as protein, fat, amino acid, peptide, sugar and so on to produce the substances full of strong and intense fragrance of cooked meat after thermal reaction under high temperature .It is a special device for producing substances full of cooked meat. It can be used for other reaction or used as a small preparation tank. The equipment has its special blender, and is provided with condenser for heating and reflux. The jacket can be connected with steam for heating , and with cooling water for quick cooling. Heat preservation layer is provided outside.\n\nAdvantages:\n\nThis system is completely made of HighQuality Stainless Steel, under the foodhygienic requirements;\n\nContinuous feed, automatic slag discharge,can realize continuous and controllable Maillard Reaction, improve the reactionefficiency;\n\nCompound mixing system resolved the issuesduring use process of Maillard Reaction kettle, such as difficult for cleaningand easy-coking etc.\n\nFragrance recoverydevice effectively avoid the loss offragrance occurred during ossein MaillardReaction process."
     } , 
     {
-        "name":"",
-        "image":"images/pharmacy/.jpg",
-        "description":"",
-        "value":""
+        "name":"Intelligentized CIP System",
+        "image":"images/pharmacy/Intelligentized.jpg",
+        "description":"Intelligentized CIP System description",
+        "value":"Application\n\nAt present, Intelligent CIP system is widelyused in biological fermenting and pharmaceutical industries with highrequirement of clean so that it reaches sanitary and sterilization effect.\n\nOperational principle:\nThrough set programming (adjustableprogramming),CIP system makes automatically preparation clean liquid, viapneumatic control valve and transfer pump and loop liquid pump finishingtransfer of clean liquid and whole clean process of circulation circle cleanand drain and recovery. Through conduct inspection instrument and PLCconstituting control system reaches auto online clean.\n\nSystem includes:\nntelligent CIP system is a centralintegration system including WFI tank, CIP tank, plate heat exchanger, pipingfilter, transfer pump, loop liquid pump, temperature controller, levelcontroller, conduct inspection instrument, PLC touch screen, control cabinetand piping and valves etc.\nAccording to process condition choose:Single tank type, double tanks type, separate body type.\n Also choose: intelligent and manual\n\nEquipment specification\nIt isapplicable for cleaning of equipment and pipes in industries of dairy,beverages, alcohol, agricultural and sideline products.\n\nThe CIP cleaning system is composed of the acid tank, alkali tank, hot water tank, pure water tank, back water tank, disinfectant water tank, thick acid tank, thick alkali tank, heat exchanger, process pump, and corresponding valve and pipe.The tanks can be allocated according to process requirements. Generally, the CIP system that only consist of the acid tank,alcali tank and hot water tank can meet the requirements for cleaning.\n\nThe CIP system produced by our company has such features as good safety, energy saving, high efficiency, convenient operation and maintenanceetc.mainly including: \n1, manual CIP station; \n2, semi-automatic CIP station; \n3, automatic CIP station system;\n4, automatic CIP in the automatic dispensing pre-treatment system, which is more advanced with higher degree of automation, reliablity and safety.Data acquisition and exchange of the whole production line can be realized for linkage of all equipment.\n\nThe structures of CIP include joint type andsplit type. The CIP systems of the two types of structures have four heating modes:plateheating, tubular heating,coil heating and through heating. The CIP system ofjoint type has specifications from one-loop to three-loop with tank volume from1T to 5T. The CIP system of split type has specifications from one-loop tosix-loop with tank volume from 1T to 10T."
+    }  , 
+    {
+        "name":"Automated Control",
+        "image":"images/pharmacy/Automatic.jpg",
+        "description":"Automatic Control Description",
+        "value":"Automatic control system resolved issues for the traditional Chinese pharmaceuticalmanufacturing, such as outdated process and equipment, lowgrade of automation level, low quality control level, lack of in line monitoringmeasure etc.\n\n Advantages of automatic control system:\n\nReal time control management of processstatus\nProcess setting make process control be moreperfect\nSimple and easy application interface forconvenient operation\nProcess parameter is detected on line,real-time displayed, be saved as a file\nReal time analysis on line and solve theproblem in-place and history search.\nStrengthen management of production data,ensure the production quality\nAfter automaticcontrol executed, labor cost is greatly saved."
     } 
 ];
